@@ -1,0 +1,2 @@
+example 2018/11/25 20:22:46 file_logger.go:14: This is a regular message
+example 2018/11/25 20:22:46 file_logger.go:15: This is a fatal message
